@@ -22,5 +22,5 @@
         }
     ],
     "alias": "karandixitportfolio.vercel.app",
-    "framework": "flask"
+    "framework": "nextjs"
 }
