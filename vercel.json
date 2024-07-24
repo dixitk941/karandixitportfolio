@@ -21,5 +21,6 @@
             "destination": "/app.py"
         }
     ],
-    "alias": "karandixitportfolio.vercel.app"
+    "alias": "karandixitportfolio.vercel.app",
+    "framework": "flask"
 }
